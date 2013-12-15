@@ -1,5 +1,4 @@
-01_OS3DF_4cmObject
+About: Project 2
 ==================
 
-Made on the first day of class.
-It's a cube made in OpenSCAD. It's 4cm in the longest direction.
+The assignment was to use two different types of filaments to print an object that would be used day to day. I created a mobile phone docking station for my car's lighter port, that fits my HTC Rezound phone. For this, I altered two files that I downloaded from Thingiverse. One file was a HTC Rezound mobile dock that was designed to use a suction cup to adhere to a window. The other file was a hinge system that was fitted for a car's lighter port. I combined the existing phone dock with the lighter hinge to create a custom phone dock that was appropriated for my specific needs. The dock was printed with glow in the dark PLA to make finding it at night easier. The portion of the hinge that would be inserted into the lighter port need to be sturdier, so it was printed in ABS. The two pieces are joined together with a screw. 
